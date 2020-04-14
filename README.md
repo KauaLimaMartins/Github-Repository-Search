@@ -3,8 +3,8 @@
   Make with React.js
 </h1>
 
-<h1>
-  <img src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="400px" height="280px" />
+<h1 align="center">
+  <img src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="420px" height="300px" />
   <img src="https://i.pinimg.com/236x/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.jpg" width="250px" height="250px" />
 </h1>
 
