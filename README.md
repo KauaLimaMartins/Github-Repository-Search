@@ -10,7 +10,7 @@
 
 # How it works?
 
-You add a Github username, it is saved to LocalStorage and is displayed in a list.. <br />
+You add the url of a github repository , it is saved to LocalStorage and is displayed in a list.. <br />
 
 <img src="./image 1.png" />
 
